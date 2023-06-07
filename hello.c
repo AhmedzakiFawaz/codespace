@@ -13,8 +13,9 @@ int main (void){
 
   //printf("%li\n",num1+num2);
 
-  long num1 =get_long("Num1 :");
-  long num2 =get_long("Num2 :");
+ int num1 =get_int("Num1 :");
+ int num2 =get_int("Num2 :");
+ 
   if(num1>=num2){
    printf("the answer false!");
 
