@@ -9,6 +9,7 @@ int main (void){
      else if(C='n'||'N'){
         printf("you are Not agree");
      }
-     else("")
-
+     else{
+        printf(" Please enter right option");
+     }
 }
