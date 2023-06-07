@@ -11,7 +11,7 @@ printf("hello world\n");
 //printf("Hello, %s\n", answer);
 //string Ahmed=get_string("what is your age?");
 //printf ("oh, %s years\n ",Ahmed);
- int num1 =get_int
+ int num1 =get_int 
  int num1 =25;
  printf("%i ",num1);
 
