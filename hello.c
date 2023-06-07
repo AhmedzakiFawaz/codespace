@@ -7,12 +7,12 @@ printf("hello world\n\n");
 printf("hello world\n");
 
 
-string answer=get_string("what is your name?\n");
-printf("Hello, %s\n", answer);
-string Ahmed=get_string("what is your age?");
-printf ("oh, %s years\n ",Ahmed);
+//string answer=get_string("what is your name?\n");
+//printf("Hello, %s\n", answer);
+//string Ahmed=get_string("what is your age?");
+//printf ("oh, %s years\n ",Ahmed);
  int num1 =25;
  int num2 =30;
- printf("%i",num1+num2);
+ printf("%i",num1++);
   }
 
