@@ -6,10 +6,10 @@ int main(void)
 {
    char c=get_char("do you agree");
 
-   if (c='Y'|| c='y'){
+   if (c=='Y'|| c=='y'){
     printf("You are agree");
     }
-    else if (c='n'|| c='N'){
+    else if (c=='n'|| c=='N'){
      printf("You are  not agree");
     }
 
