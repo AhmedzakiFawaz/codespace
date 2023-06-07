@@ -8,10 +8,10 @@ int main (void){
 //printf("Hello, %s\n", answer);
 //string Ahmed=get_string("what is your age?");
 //printf ("oh, %s years\n ",Ahmed);
-  int num1 =get_int("Num1 :");
-  int num2 =get_int("Num2 :");
-  int result=num1+num2;
-  printf("%i\n",result);
+  long num1 =get_long("Num1 :");
+  long num2 =get_long("Num2 :");
+
+  printf("%li\n",num1+num2);
 
 
   }
