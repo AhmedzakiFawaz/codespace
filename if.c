@@ -6,7 +6,7 @@ int main(void)
 {
     char c = get_char("Do you agree? ");
 
-    if (c == 'Y' || c == 'y')
+    if (c=='Y' || c == 'y')
     {
         printf("You are agree.\n");
     }
@@ -19,5 +19,5 @@ int main(void)
         printf("Please enter a valid option.\n");
     }
 
-  
+
 }
