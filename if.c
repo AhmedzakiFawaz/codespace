@@ -8,13 +8,13 @@ int main(void)
 
 
     int i= 0;
-    while(i<50){
+    while(i<500000000){
         printf("meow\n");
         i=i+1;
     }
       int z= 0;
     while(z<50){
-        printf("meow\n");
+        printf("bes\n");
         z=z+1;
     }
 
