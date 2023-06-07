@@ -2,14 +2,36 @@
 #include<cs50.h>
 int main (void){
     char c=get_char("Do you agree?");
-    if (c=='Y'||c=='y'){
+    if (c == 'Y' || c == 'y'){
         printf("you are agree");
 
     }
-     else if(C='n'||C='N'){
+     else if(C = 'n' || C = 'N'){
         printf("you are Not agree");
      }
      else{
         printf(" Please enter right option");
      }
+}
+#include <stdio.h>
+#include <cs50.h>
+
+int main(void)
+{
+    char c = get_char("Do you agree? ");
+
+    if (c == 'Y' || c == 'y')
+    {
+        printf("You are agree.\n");
+    }
+    else if (c == 'N' || c == 'n')
+    {
+        printf("You are not agree.\n");
+    }
+    else
+    {
+        printf("Please enter a valid option.\n");
+    }
+
+    return 0;
 }
