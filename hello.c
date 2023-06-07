@@ -25,9 +25,10 @@ int main (void){
 
     printf("the answer right!");
   }
-   else if(){
 
-    
+   else if(num1=num2){
+
+    printf("num1=num2");
    }
 
   }
