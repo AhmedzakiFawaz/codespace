@@ -4,20 +4,19 @@
 
 int main(void)
 {
-    char c = get_char("Do you agree? ");
+   char c=get_char("do you agree");
 
-    if (c=='Y' || c == 'y')
-    {
-        printf("You are agree.\n");
+   if (c='Y'|| c='y'){
+    printf("You are agree");
     }
-    else if (c == 'N' || c == 'n')
-    {
-        printf("You are not agree.\n");
+    else if (c='n'|| c='N'){
+     printf("You are  not agree");
     }
-    else
-    {
-        printf("Please enter a valid option.\n");
+
+    else{
+        ("please enter valid number");
     }
+
 
 
 }
