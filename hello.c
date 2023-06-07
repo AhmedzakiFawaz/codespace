@@ -12,4 +12,3 @@ printf("Hello, %s\n", answer);
 string Ahmed=get_string("what is your age?");
 printf ("oh, %s years\n ",Ahmed);
 
-}
