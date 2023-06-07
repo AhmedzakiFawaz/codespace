@@ -13,6 +13,6 @@ string Ahmed=get_string("what is your age?");
 printf ("oh, %s years\n ",Ahmed);
  int num1 =25;
  int num2 =30;
- printf(num1+num2)
+ printf("%i",num1+num2)
   }
 
