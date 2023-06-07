@@ -1,29 +1,16 @@
+
 #include <stdio.h>
 #include <cs50.h>
 
 int main(void)
 {
-    char c;
+   //char c=get_char("do you agree");
 
-    while (true)
-    {
-        c = get_char("Do you agree? ");
 
-        if (c == 'Y' || c == 'y')
-        {
-            printf("You are agree.\n");
-            break;
-        }
-        else if (c == 'N' || c == 'n')
-        {
-            printf("You are not agree.\n");
-            break;
-        }
-        else
-        {
-            printf("Please enter a valid option.\n");
-        }
+    int i=0;
+    while(i<50){
+        printf("meow"\n)
+        i=i+1;
     }
 
-    return 0;
 }
