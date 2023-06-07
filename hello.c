@@ -1,19 +1,17 @@
 #include<stdio.h>
 #include<cs50.h>
 int main (void){
-printf("hello world\n");
-printf("hello world\n");
-printf("hello world\n\n");
-printf("hello world\n");
+
 
 
 //string answer=get_string("what is your name?\n");
 //printf("Hello, %s\n", answer);
 //string Ahmed=get_string("what is your age?");
 //printf ("oh, %s years\n ",Ahmed);
- int num1 =get_int 
- int num1 =25;
- printf("%i ",num1);
+  int num1 =get_int("Num1 :");
+  int num2 =get_int("Num2 :");
+  int result=num1+num2;
+  printf("%i\n",result);
 
 
   }
