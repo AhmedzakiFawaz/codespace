@@ -14,7 +14,7 @@ int main(void)
     }
 
     else{
-        ("please enter valid number");
+      printf  ("please enter valid number");
     }
 
 
