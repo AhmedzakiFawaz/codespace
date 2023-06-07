@@ -12,7 +12,7 @@ printf("hello world\n");
 //string Ahmed=get_string("what is your age?");
 //printf ("oh, %s years\n ",Ahmed);
  int num1 =25;
- int num1 +=5;
- printf("%i ");
+  num1 +=5;
+ printf("%i ",num1);
   }
 
