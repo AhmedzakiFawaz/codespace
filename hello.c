@@ -13,6 +13,6 @@ printf("hello world\n");
 //printf ("oh, %s years\n ",Ahmed);
  int num1 =25;
  int num1 +=5;
- printf("%i ",num1);
+ printf("%i ");
   }
 
