@@ -21,12 +21,11 @@ int main (void){
 
   }
 
-
-   else if(num1=num2){
+   else if(num1==num2){
 
     printf("num1=num2");
    }
-   
+
  else{
 
     printf("the answer right!");
