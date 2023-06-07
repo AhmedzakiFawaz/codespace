@@ -6,6 +6,9 @@ int main (void){
         printf("you are agree");
 
     }
-     else if(C='n'||'N'){}
+     else if(C='n'||'N'){
+        printf("you are Not agree");
+     }
+     else("")
 
 }
