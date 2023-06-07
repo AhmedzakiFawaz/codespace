@@ -25,7 +25,10 @@ int main (void){
 
     printf("the answer right!");
   }
+   else if(){
 
+    
+   }
 
   }
 
