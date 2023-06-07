@@ -11,5 +11,8 @@ string answer=get_string("what is your name?\n");
 printf("Hello, %s\n", answer);
 string Ahmed=get_string("what is your age?");
 printf ("oh, %s years\n ",Ahmed);
- int num1 = }
+ int num1 =25;
+ int num2 =30;
+ printf(num1+num2)
+  }
 
