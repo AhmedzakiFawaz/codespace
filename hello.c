@@ -5,6 +5,8 @@ printf("hello world\n");
 printf("hello world\n");
 printf("hello world\n\n");
 printf("hello world\n");
+
+
 string answer=get_string("what is your name?\n");
 printf("Hello, %s\n",answer);
 
