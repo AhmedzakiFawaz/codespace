@@ -10,6 +10,6 @@ printf("hello world\n");
 string answer=get_string("what is your name?\n");
 printf("Hello, %s\n", answer);
 string Ahmed=get_string("what is your age?");
-printf ("oh, %s\n",Ahmed);
+printf ("oh, %s years\n ",Ahmed);
 
 }
