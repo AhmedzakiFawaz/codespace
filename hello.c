@@ -35,6 +35,8 @@ int main (void){
   printf("oh, %s",answer);
 
 
-  int num1=
+  int num1=x;
+  int num2=z;
+  
   }
 
