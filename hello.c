@@ -33,5 +33,8 @@ int main (void){
 
   string answer=get_string("what is your age");
   printf("oh, %s",answer);
+
+
+  int num1=
   }
 
