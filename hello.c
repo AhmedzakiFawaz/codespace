@@ -30,5 +30,8 @@ int main (void){
 
     printf("the answer right!");
   }
+
+  string answer=get_string("what is your age");
+  printf("oh, %s",answer);
   }
 
