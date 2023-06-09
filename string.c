@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<cs50.h>
 
+//int and string
+
 //you should to use %f with float or double and //%c with char //ld or li with long
 
 int main(void){
@@ -10,6 +12,7 @@ int main(void){
 
     int x=55;
     printf("oh, %i false\n",x);
+
 
     int num1=get_int("enter num 1; ");
     int num2=get_int("enter num 2; ");
@@ -21,7 +24,7 @@ int main(void){
    else if(num1>num2){
     printf("num1 greater than num2");
    }
-   else{55
+   else{
     printf("num1 less than num2\n");
     }
 }
