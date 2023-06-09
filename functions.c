@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include<cs50.h>
 
-void hello(for(i<3;i=0 ; i++))//argument
+void hello()//argument
 {
 
-    printf("Hello %i\n",x);
+   for(int i=0; i<5 ; i++);
+   printf("%i \n",i)
 
 
 }
