@@ -4,11 +4,13 @@
 void hello(void)//argument
 {
 
-   for(int i=0; i<5 ; i++);
-   printf("hello");
+   for(int i=0; i<5 ; i++)
 
-
+   {
+   printf("gg");
+   }
 }
+
 
 int main (void)
 
