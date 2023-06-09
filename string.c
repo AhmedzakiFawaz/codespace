@@ -21,7 +21,7 @@ int main(void){
    else if(num1>num2){
     printf("num1 greater than num2");
    }
-   else{
+   else{55
     printf("num1 less than num2\n");
     }
 }
