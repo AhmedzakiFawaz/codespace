@@ -1,13 +1,13 @@
 #include<stdio.h>
 #include<cs50.h>
 
-void hello(void)//argument
+void hello(int n )//argument
 {
 
-   for(int i=0; i<5 ; i++)
+   for(int i=0; i<n ; i++)
 
    {
-   printf("gg");
+   printf("gg\n");
    }
 }
 
@@ -16,6 +16,6 @@ int main (void)
 
 {
 
-hello();
+hello( 55);
 
 }
