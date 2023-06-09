@@ -5,7 +5,7 @@ void hello()//argument
 {
 
    for(int i=0; i<5 ; i++);
-   printf("%i \n",i)
+   printf("%i \n",i);
 
 
 }
