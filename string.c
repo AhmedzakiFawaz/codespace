@@ -18,10 +18,10 @@ int main(void){
     printf("num1 equal num2");
 
    }
-   if_else(num1>num2){
+   else if(num1>num2){
     printf("num1 greater than num2");
    }
    else{
-    printf("num1 less than num2");
+    printf("num1 less than num2\n");
     }
 }
