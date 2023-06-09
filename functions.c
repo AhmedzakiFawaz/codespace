@@ -10,6 +10,10 @@ void hello(int n )//argument
    printf("gg\n");
    }
 }
+void sum(int n1, int n2){
+
+   printf("%i\n",sum);
+}
 
 
 int main (void)
@@ -17,5 +21,6 @@ int main (void)
 {
 
 hello( 55);
+sum(25, 55);
 
 }
