@@ -4,7 +4,7 @@
 void hello(int x )//argument
 {
 
-    printf("Hello\n");
+    printf("Hello %i\n",x);
 
 
 }
@@ -13,6 +13,6 @@ int main (void)
 
 {
 
-hello();
+hello(10);
 
 }
