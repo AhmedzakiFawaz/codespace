@@ -10,4 +10,7 @@ int main(void){
 
     int x=55;
     printf("oh, %i false",x);
+    int num1=get_int("enter num 1; ");
+    int num2=get_int("enter num 2; ");
+    printf("%d \n",num1+num2);
 }
