@@ -37,7 +37,7 @@ int main (void){
   printf("oh, hello %s",jak);
 
   WHILE(1<3){
-    printf
+    printf("meow\n");
 
   }
 
