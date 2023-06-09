@@ -4,7 +4,7 @@ int main(void){
 
 int i=0;
 
-while(i<3){
+while(i<10){
 printf("meow\n");
 i+=1;
 }
