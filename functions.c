@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<cs50.h>
 
-void hello()//argument
+void hello(void)//argument
 {
 
    for(int i=0; i<5 ; i++);
@@ -14,6 +14,6 @@ int main (void)
 
 {
 
-hello(10);
+hello();
 
 }
