@@ -12,7 +12,7 @@ void hello(int n )//argument
 }
 void sum(int n1, int n2){
 
-   printf("%i\n",sum);
+   printf("%i\n",n1+n2);
 }
 
 
