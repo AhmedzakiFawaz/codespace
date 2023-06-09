@@ -36,7 +36,7 @@ int main (void){
   string jak=get_string("what is your name?");
   printf("oh, hello %s",jak);
 
-  WHILE(1<3){
+  while(1<3){
     printf("meow\n");
 
   }
