@@ -31,11 +31,11 @@ int main (void){
     printf("the answer right!");
   }
 
-
-
   string jak=get_string("what is your name?");
   printf("oh, hello %s",jak);
 
+
+in
   while(1<3){
     printf("meow\n");
 
