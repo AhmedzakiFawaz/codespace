@@ -14,16 +14,14 @@ void hello(int n )//argument
 
 int sum(int n1, int n2){
 
-
-  int result=n1+n2;
-   return result;
+   return n1+n2;
 }
 
 
 int main (void)
 
 {
-
+sum(25, 55);
 
 int x= sum(25, 55);
 int y=55;
