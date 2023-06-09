@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<cs50.h>
 
+//While and for loops
 
 int main(void){
 
