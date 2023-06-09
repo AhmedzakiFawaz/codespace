@@ -10,9 +10,13 @@ void hello(int n )//argument
    printf("gg\n");
    }
 }
-void sum(int n1, int n2){
 
-   printf("%i\n",n1+n2);
+
+int sum(int n1, int n2){
+
+
+   result=n1+n2;
+   return result;
 }
 
 
@@ -20,7 +24,10 @@ int main (void)
 
 {
 
-hello( 55);
-sum(25, 55);
+
+int x= sum(25, 55);
+
+printf("%i\n",x)
+
 
 }
