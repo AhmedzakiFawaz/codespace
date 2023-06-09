@@ -2,6 +2,6 @@
 #include<cs50.h>//essential libreary for some commands
 int main (void){
 
-printf
+
 
   }
