@@ -15,7 +15,7 @@ void hello(int n )//argument
 int sum(int n1, int n2){
 
 
-   result=n1+n2;
+  int result=n1+n2;
    return result;
 }
 
@@ -26,8 +26,9 @@ int main (void)
 
 
 int x= sum(25, 55);
+int y=55;
 
-printf("%i\n",x)
+printf("%i\n",x+y);
 
 
 }
