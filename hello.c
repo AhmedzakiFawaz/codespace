@@ -31,12 +31,10 @@ int main (void){
     printf("the answer right!");
   }
 
-  string answer=get_string("what is your age");
-  printf("oh, %s",answer);
 
 
-  int num1=x;
-  int num2=z;
-  
+  string jak=get_string("what is your name?");
+  printf("oh, hello %s",jak);
+
+
   }
-
