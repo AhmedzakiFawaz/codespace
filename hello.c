@@ -34,7 +34,6 @@ int main (void){
 
 
   string jak=get_string("what is your name?");
-  printf("oh, hello %s",jak);
-
+  printf("oh, hello %s",answer);
 
   }
