@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<cs50.h>
 
-void hello(int x )//argument
+void hello(for(i<3;i=0 ; i++))//argument
 {
 
     printf("Hello %i\n",x);
