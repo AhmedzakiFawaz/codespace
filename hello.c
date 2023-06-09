@@ -34,6 +34,11 @@ int main (void){
 
 
   string jak=get_string("what is your name?");
-  printf("oh, hello %s",answer);
+  printf("oh, hello %s",jak);
+
+  WHILE(1<3){
+    printf
+
+  }
 
   }
