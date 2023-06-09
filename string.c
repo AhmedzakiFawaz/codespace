@@ -9,5 +9,5 @@ int main(void){
     printf("oh, hello %s\n",answer);
 
     int x=55;
-    printf("oh, %i false",x)
+    printf("oh, %i false",x);
 }
