@@ -13,7 +13,7 @@ void hello(int n )//argument
 
 
 int sum(int n1, int n2){
-   
+
  printf("%i\n",n1+n2);
    return n1+n2;
 }
@@ -22,7 +22,7 @@ int sum(int n1, int n2){
 int main (void)
 
 {
-sum(25, 55);
+
 
 int x= sum(25, 55);
 int y=55;
