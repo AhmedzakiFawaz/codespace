@@ -4,8 +4,8 @@
 
 void first (void){
 
-   for(int x=0; x<25; x++);
-   printf("%i \n",x);
+   for(int z=0; z<25; z++);
+   printf("%i \n",z);
 }
 
 
