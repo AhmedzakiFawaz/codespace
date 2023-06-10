@@ -12,6 +12,7 @@
          int old(int age){
 
             int result=age*2;
+            return result;
           }
 
 
