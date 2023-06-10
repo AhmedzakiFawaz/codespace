@@ -12,7 +12,7 @@
 
     void type2(int num1){
    int result=num1*10;
-   printf("enter your number: ");
+   
 
     }
     int main() {
