@@ -3,33 +3,32 @@
 
 //void functions
 
-   void hello(void)
+   void hello(intn)
 
-   {
+      {
+         int i;
+         for(i=0; i<25; i++){
+            printf("meow\n");
+         }
 
-      for(i=0; i<25; i++){
-         printf("meow\n");
       }
-
-   }
 
    //variable functions
    void variable(int n)
-   {
-   int x;
-   for(x=0; x<n; x++){
-   printf("%i \n",x);
-   }
+      {
+            int x;
+            for(x=0; x<n; x++)
+            {
+            printf("hello\n");
+            }
 
-   }
-
+      }
+     
 
    int main (void)
+      {
 
-   {
-      hello();
-      variable(25);
+        hello(30);
+         variable(25);
 
-
-
-   }
+      }
