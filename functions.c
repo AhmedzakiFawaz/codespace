@@ -40,6 +40,6 @@
        int y=x*25;
         printf("%d \n",x*y);
 
-        float discount=get_float("enter your price: ");
+        float regular=get_float("enter your price: ");
        printf("sale is : %.2f",price);
       }
