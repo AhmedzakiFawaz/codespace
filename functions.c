@@ -28,7 +28,7 @@
 
    {
       hello();
-      variable(25);
+      sum=variable(25);
 
 
 
