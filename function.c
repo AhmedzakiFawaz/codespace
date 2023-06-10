@@ -9,10 +9,10 @@
 
 
         }
-         int old(int age){
+         void old(int age){
 
             int result=age*2;
-            return result;
+           
           }
 
 
