@@ -21,8 +21,8 @@
 
             printf("%.2f \n",sale);
 
-             int age =get_int(enter your old : \n);
+             int age =get_int("enter your old : \n");
              int result = 2*age;
-             printf("%i \n",result)
+             printf("%i \n",result);
 
         }
