@@ -3,7 +3,7 @@
 
         float discount(float regular){
 
-           float sale=discount*.85;
+           float sale=regular*.85;
            return sale;
 
 
@@ -16,6 +16,6 @@
             float regular=get_float("enter your price: \n");
 
            float sale=discount(regular);
-            printf("%.2f \n",sale)
+            printf("%.2f \n",sale);
 
         }
