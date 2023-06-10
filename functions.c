@@ -3,12 +3,12 @@
 
 //void functions
 
-   void hello(void)
+   void hello(int i)
 
    {
-      int i;
+
       for(i=0; i<25; i++){
-         printf("%i \n",i);
+         printf("meow\n");
       }
 
    }
