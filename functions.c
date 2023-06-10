@@ -35,8 +35,8 @@
 
         hello(30);
          variable(25);
-        int x= num(10,5);
-        int y=x*25;
-        printf("%d hi\n",x*y);
+        long x= num(10,5);
+       long y=x*25;
+        printf("%li hi\n",x*y);
 
       }
