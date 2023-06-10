@@ -28,7 +28,9 @@
 
          return n1+n2;
 
+
      }
+     float discount=get_float(printf(""))
 
    int main (void)
       {
