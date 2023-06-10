@@ -14,8 +14,7 @@
       }
 
    //variable functions
-   void variable(int n)
-      {
+   void variable(int n){
             int x;
             for(x=0; x<n; x++)
             {
@@ -25,10 +24,9 @@
       }
 
 
-     int num(int n1 , int n2)
-     
-     {
+     int num(int n1 , int n2) {
 
+         return n1+n2;
 
      }
 
@@ -37,5 +35,6 @@
 
         hello(30);
          variable(25);
+         num();
 
       }
