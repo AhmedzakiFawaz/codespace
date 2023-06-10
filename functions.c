@@ -10,6 +10,11 @@ void hello(int n )//argument
    printf("gg\n");
    }
 }
+void hello (void){
+
+   for(int i=0; i<25; i++);
+   printf("%i \n",i)
+}
 
 
 int sum(int n1, int n2){
