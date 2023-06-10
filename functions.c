@@ -1,6 +1,15 @@
 #include<stdio.h>
 #include<cs50.h>
 
+
+void first (void){
+
+   for(int x=0; x<25; x++);
+   printf("%i \n",x);
+}
+
+
+
 void hello(int n )//argument
 {
 
@@ -10,11 +19,7 @@ void hello(int n )//argument
    printf("gg\n");
    }
 }
-void hello (void){
 
-   for(int i=0; i<25; i++);
-   printf("%i \n",i)
-}
 
 
 int sum(int n1, int n2){
@@ -27,12 +32,16 @@ int sum(int n1, int n2){
 int main (void)
 
 {
+first();
+hello();
+
 
 
 int x= sum(25, 55);
 int y=55;
 
 printf("%i\n",x+y);
+
 
 
 }
