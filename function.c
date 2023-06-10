@@ -16,6 +16,6 @@
             float regular=get_float("enter your price: \n");
 
 
-            printf("%.2f \n",discount);
+            printf("%.2f \n",sale);
 
         }
