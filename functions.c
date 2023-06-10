@@ -20,6 +20,7 @@
    for(x=0; x<n; x++){
    printf("%i \n",x);
    }
+   return x;
    }
 
 
