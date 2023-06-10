@@ -37,6 +37,6 @@
          variable(25);
         int x= num(10,5);
        int y=x*25;
-        printf("%li \n",x*y);
+        printf("%d \n",x*y);
 
       }
