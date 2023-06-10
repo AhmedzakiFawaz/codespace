@@ -30,7 +30,8 @@
 
 
      }
-     float discount=get_float(printf(""))
+     float discount=get_float("enter your price: ");
+     printf("sale is : %.2f",price)
 
    int main (void)
       {
