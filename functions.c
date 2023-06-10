@@ -30,9 +30,7 @@
 
 
      }
-     float discount=get_float("enter your price: ");
-     printf("sale is : %.2f",price)
-
+   float discoun
    int main (void)
       {
 
@@ -42,4 +40,6 @@
        int y=x*25;
         printf("%d \n",x*y);
 
+        float discount=get_float("enter your price: ");
+       printf("sale is : %.2f",price);
       }
