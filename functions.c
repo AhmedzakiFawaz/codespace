@@ -2,6 +2,7 @@
 #include<cs50.h>
 
 //void functions
+      float sale(float price);
 
    void hello(intn)
 
@@ -30,7 +31,7 @@
 
 
      }
-   float discoun
+  
    int main (void)
       {
 
@@ -41,6 +42,11 @@
         printf("%d \n",x*y);
 
         float regular=get_float("enter your price: ");
-       printf("sale is : %.2f",price);
+        sale=discount(regular);
+       printf("sale is : %.2f",sale);
       }
-      float sale(float )
+      float sale(float price){
+
+         sale=price*.85;
+         return sale;
+      }
