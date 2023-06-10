@@ -3,7 +3,7 @@
 
 //void functions
 
-   void hello(int i)
+   void hello(void)
 
    {
 
