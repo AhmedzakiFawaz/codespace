@@ -43,11 +43,11 @@
 
 
 
-        float regular=get_float("enter your price: "){
+        float regular=get_float("enter your price: ");
 
         sale=discount(regular);
        printf("sale is : %.2f",sale);
-      }
+      
 
 
       float sale(float price){
