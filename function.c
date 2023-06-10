@@ -12,7 +12,7 @@
          void old(int age){
 
             int result=age*2;
-           
+
           }
 
 
@@ -26,7 +26,7 @@
             printf("%.2f \n",sale);
 
              int age =get_int("enter your old : \n");
-             int result=old(age);
+             int result=old(int age);
              printf("%i \n",result);
 
         }
