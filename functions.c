@@ -25,9 +25,10 @@
       }
 
 
-     int num(int x , int y)
+     int num(int n1 , int n2)
+     
      {
-         
+
 
      }
 
