@@ -8,7 +8,11 @@
 
 
 
+
         }
+
+        int age(int N);
+        int 2age=
 
 
         int main(void){
