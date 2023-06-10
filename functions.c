@@ -14,13 +14,13 @@
    }
 
    //variable functions
-   int variable(int n)
+   void variable(int n)
    {
    int x;
    for(x=0; x<n; x++){
    printf("%i \n",x);
    }
- 
+
    }
 
 
