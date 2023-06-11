@@ -13,6 +13,7 @@
 
       int type3(float x){
         int price=x*.85;
+        return price;
 
 
 
