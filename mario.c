@@ -2,10 +2,8 @@
 #include<cs50.h>
 
 int main(){
-
-    for(int x=0 ; x<5 ; x++){
-        
-    }
+int count;
+   whil
 
     int now=get_int("Count: ");
 
