@@ -11,8 +11,6 @@
       int sum=num1*num2;
        printf("%i \n",sum);
 
-
-
     }
 //return function
         int type3(float x){
