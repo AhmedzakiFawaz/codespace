@@ -5,9 +5,9 @@
 
     int main() {
 
- float price=get_float("enter your price: \n");
-  int disc=price*.84;
- printf("%.2f \n",disc);
+        float price=get_float("enter your price: \n");
+        int disc=price*.9;
+        printf("i \n",disc);
 
 
 }
