@@ -15,6 +15,6 @@
 
         int percent=get_int("please enter discount: ");
 
-      float sale=discount(n,z);
-      printf("sale price : %f \n",sale)
+      float sale=discount(regular, percent);
+      printf("sale price : %f \n",sale);
 }
