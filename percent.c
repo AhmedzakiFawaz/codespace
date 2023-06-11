@@ -1,8 +1,9 @@
  #include<stdio.h>
     #include<cs50.h>
 
-        float percent (float price int percent){
+        float percent (float num1 int num2){
 
+                
 
         }
 
