@@ -3,6 +3,8 @@
 
    int discount(int n int z){
 
+    int sale=price*(100-discount)/100;
+
    }
 
 
@@ -12,6 +14,5 @@
 
         int disc=get_int("please enter discount: ");
 
-      float sale=price*(100-discount)/100;
-
+      float sale=
 }
