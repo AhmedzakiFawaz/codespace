@@ -3,7 +3,7 @@
 
    int discount(int n, int z){
 
-    int sale=price*(100-percent)/100;
+    int sale=n*(100-z)/100;
 
    }
 
