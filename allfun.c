@@ -11,17 +11,17 @@
       int sum=num1*num2;
        printf("%i \n",sum);
 
-      int type3(float x){
+
+
+    }
+
+        int type3(float x){
         int price=x*.85;
         return price;
 
 
 
        }
-
-
-    }
-
 
 
     int main(){
