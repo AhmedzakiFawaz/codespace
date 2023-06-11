@@ -20,5 +20,14 @@
          float   final=percent*price;
         printf("%f \n",final);
 
+        int main() {
+    float price = get_float("Enter your price: \n");
+    int discount = get_int("Enter your discount: \n");
+    float percent = (100 - discount) / 100.0;
+    float final = percent * price;
+    printf("Discounted price: %f \n", final);
+    return 0;
+}
+
 
 }
