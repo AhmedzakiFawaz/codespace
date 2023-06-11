@@ -6,7 +6,7 @@
    int disc=n*.85;
    return disc;
    }
-
+    int sale()
 
     int main() {
 
@@ -16,7 +16,7 @@
         printf("Your discounted price = %i \n",disc);
 
         int   discount=get_int("enter your discount: \n");
-      int  percent=price*(100-discount)/100;
+      int  percent=price*(100-discount)/100;sale()
 
         printf("%i \n",percent);
 
