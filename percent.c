@@ -4,7 +4,7 @@
 
     int fun(int num1 ){
 
-    int percent=num1*85;
+    int percent=fun*85;
 
 
  }
