@@ -2,6 +2,8 @@
 #include<cs50.h>
 
 int main(){
+    
+    for(){
 
     int now=get_int("Count: ");
 
@@ -11,6 +13,6 @@ int main(){
     }
     printf("\n");
 
-
+    }
 
 }
