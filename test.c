@@ -18,13 +18,14 @@
     int type3(int num1, int num2){
       int sum=num1*num2;
       printf("%i\n",sum);
+      return sum;
     }
 
     int main() {
 
 type1();
 type2(25);
-type3(25, 2)
+type3(25, 2);
 int return=sum*2;
 printf("%i\n",result)
 }
