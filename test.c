@@ -27,5 +27,5 @@ type1();
 type2(25);
 type3(25, 2);
 int return=sum*2;
-printf("%i\n",result)
+printf("%i\n",result);
 }
