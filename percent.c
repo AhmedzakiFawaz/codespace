@@ -16,9 +16,9 @@
         printf("Your discounted price = %i \n",disc);
 
         int   discount=get_int("enter your discount: \n");
-      int  percent=(100-discount)/100;
-          int  final=percent *price;
-        printf("%i \n",final);
+      int  percent=price*(100-discount)/100;
+
+        printf("%i \n",percent);
 
 
 
