@@ -4,6 +4,7 @@
    int discount(int n, int z){
 
     int sale=n*(100-z)/100;
+    return sale;
 
    }
 
