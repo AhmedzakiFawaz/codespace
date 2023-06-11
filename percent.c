@@ -1,9 +1,9 @@
  #include<stdio.h>
     #include<cs50.h>
 
-   int discount(int n, int z){
+   int discount(int price, int percent){
 
-    int sale=n*(100-z)/100;
+    int sale=price*(100-percent)/100;
     return sale;
 
    }
