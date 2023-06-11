@@ -14,5 +14,6 @@
 
         int disc=get_int("please enter discount: ");
 
-      float sale=
+      float sale=discount(n,z);
+      printf("sale price : %f \n",sale)
 }
