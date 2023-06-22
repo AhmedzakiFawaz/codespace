@@ -1,4 +1,4 @@
-#include<stdio.h>
+l#include<stdio.h>
 #include<cs50.h>
 float disc(float pric , int disc){
 
