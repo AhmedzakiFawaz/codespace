@@ -8,12 +8,12 @@ int main()
     time_t now = time(NULL);
     struct tm *tm_struct = localtime(&now);
     tm_struct->tm_min += 5;
-    
+
     // Convert updated time back to timestamp
     now = mktime(tm_struct);
 
     // Execute shutdown command for Windows or Linux based on OS type
-#ifdef _WIN32
+#ifdef _WIN3
     char cmd[50];
     sprintf(cmd, "shutdown /s /t %ld", (long)difftime(now, time(NULL)));
 #else
@@ -24,6 +24,6 @@ int main()
    printf("Turning off computer at: %s\n", asctime(localtime(&now)));
 
    system(cmd); // Run the command
-   
+
    return 0;
 }
